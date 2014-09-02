@@ -16,3 +16,6 @@
 [submodule "loadbar"]
 	path = loadbar
 	url = https://github.com/chauncey-garrett/ubersicht-loadbar.git
+[submodule "load"]
+	path = load
+	url = https://github.com/chauncey-garrett/ubersicht-load.git
