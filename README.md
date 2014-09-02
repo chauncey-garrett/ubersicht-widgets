@@ -9,12 +9,12 @@ Personal collection of [Übersicht][1] widgets.
 | load | Displays the current CPU load numerically
 | loadbar | Displays the current CPU load in bar fashion
 | loadchart | Charts the current and past CPU load
-| network-throughput | Network up/down transfers
-| pingo | Current ping rates
+| network-throughput | Network up/down throughput
+| pingo | Current ping rates with packet loss indicator
 | round-clock | A very nice clock
 | timemachine | Time Machine status
 
-See each individual widget for a more thorough description and authorship information.
+See each individual widget's repository/folder for a more thorough description and authorship information.
 
 ## Installation
 
