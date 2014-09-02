@@ -4,3 +4,6 @@
 [submodule "network-throughput"]
 	path = network-throughput
 	url = https://github.com/chauncey-garrett/ubersicht-network-throughput.git
+[submodule "pingo"]
+	path = pingo
+	url = https://github.com/chauncey-garrett/ubersicht-pingo.git
