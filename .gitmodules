@@ -13,3 +13,6 @@
 [submodule "loadchart"]
 	path = loadchart
 	url = https://github.com/chauncey-garrett/ubersicht-loadchart.git
+[submodule "loadbar"]
+	path = loadbar
+	url = https://github.com/chauncey-garrett/ubersicht-loadbar.git
