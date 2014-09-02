@@ -7,3 +7,6 @@
 [submodule "pingo"]
 	path = pingo
 	url = https://github.com/chauncey-garrett/ubersicht-pingo.git
+[submodule "time-machine"]
+	path = time-machine
+	url = https://github.com/chauncey-garrett/ubersicht-time-machine.git
