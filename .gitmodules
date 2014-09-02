@@ -10,3 +10,6 @@
 [submodule "time-machine"]
 	path = time-machine
 	url = https://github.com/chauncey-garrett/ubersicht-time-machine.git
+[submodule "loadchart"]
+	path = loadchart
+	url = https://github.com/chauncey-garrett/ubersicht-loadchart.git
