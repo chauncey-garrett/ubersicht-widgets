@@ -19,3 +19,6 @@
 [submodule "load"]
 	path = load
 	url = https://github.com/chauncey-garrett/ubersicht-load.git
+[submodule "dateline"]
+	path = dateline
+	url = https://github.com/chauncey-garrett/ubersicht-dateline.git
