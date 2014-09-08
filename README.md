@@ -6,6 +6,7 @@ Personal collection of [Übersicht][1] widgets.
 
 | Widget | Description
 | --- | ---
+| dateline | Displays a calendar similar to [Dateline][2]
 | load | Displays the current CPU load numerically
 | loadbar | Displays the current CPU load in bar fashion
 | loadchart | Charts the current and past CPU load
@@ -32,4 +33,6 @@ cd ubersicht-widgets
 git submodule update --init --recursive
 ```
 
+
 [1]: http://tracesof.net/uebersicht/
+[2]: https://itunes.apple.com/us/app/dateline/id406119724?mt=12
