@@ -2,6 +2,8 @@
 
 Personal collection of [Übersicht][1] widgets.
 
+![](screenshot.png)
+
 ## Widgets
 
 | Widget | Description
