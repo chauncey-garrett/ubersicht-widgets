@@ -1,10 +1,37 @@
+---
+layout: page_github_repo
+title: Ubersicht widgets
+github_repo: ubersicht-widgets
+author: Chauncey Garrett
+published: true
+date:
+updated:
+noindex: false
+permalink: /projects/ubersicht-widgets/
+external-url:
+tags:
+- github
+- ubersicht
+- customization
+- gui
+category: project
+description: A curated Ubersicht layout.
+keywords: TODO
+sharing: true
+comments: false
+footer: true
+---
+
+* Table of Contents placeholder (via kramdown)
+{:toc}
+
 # Übersicht Widget Collection
 
 Personal collection of [Übersicht](http://tracesof.net/uebersicht/) widgets.
 
 ![](img/screenshot.png)
 
-## Widgets
+# Widgets
 
 | Widget                                                                                 | Description
 | ---                                                                                    | ---
@@ -19,7 +46,7 @@ Personal collection of [Übersicht](http://tracesof.net/uebersicht/) widgets.
 
 See each individual widget's repository/folder for a more thorough description and authorship information.
 
-## Installation
+# Installation
 
 With Git ≥ v1.6.5 you can use:
 
@@ -37,11 +64,11 @@ cd widgets
 git submodule update --init --recursive
 ```
 
-## Like it?
+# Like it?
 
 If you have feature suggestions, please open an [issue](https://github.com/chauncey-garrett/ubersicht-widgets/issues "chauncey-garrett/ubersicht-widgets/issues"). If you have contributions, open a [pull request](https://github.com/chauncey-garrett/ubersicht-widgets/pull-request "chauncey-garrett/ubersicht-widgets/pulls"). I'd love to expand this library as much as is possible.
 
-## Author(s)
+# Author(s)
 
 *The author(s) of this module should be contacted via the [issue tracker](https://github.com/chauncey-garrett/ubersicht-widgets/issues "chauncey-garrett/ubersicht-widgets/issues").*
 
