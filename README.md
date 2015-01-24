@@ -41,8 +41,8 @@ Personal collection of [Übersicht](http://tracesof.net/uebersicht/) widgets.
 | [loadchart](https://github.com/chauncey-garrett/ubersicht-loadchart)                   | Charts the current and past CPU load
 | [network-throughput](https://github.com/chauncey-garrett/ubersicht-network-throughput) | Network up/down throughput
 | [pingo](https://github.com/chauncey-garrett/ubersicht-pingo)                           | Current ping rates with packet loss indicator
-| [round-clock](https://github.com/chauncey-garrett/ubersicht-round-clock)               | A very nice clock
-| [timemachine](https://github.com/chauncey-garrett/ubersicht-timemachine)               | Time Machine status
+| [round-clock](https://github.com/chauncey-garrett/ubersicht-roundClock)               | A very nice clock
+| [timemachine](https://github.com/chauncey-garrett/ubersicht-time-machine)               | Time Machine status
 
 See each individual widget's repository/folder for a more thorough description and authorship information.
 
@@ -66,7 +66,7 @@ git submodule update --init --recursive
 
 # Like it?
 
-If you have feature suggestions, please open an [issue](https://github.com/chauncey-garrett/ubersicht-widgets/issues "chauncey-garrett/ubersicht-widgets/issues"). If you have contributions, open a [pull request](https://github.com/chauncey-garrett/ubersicht-widgets/pull-request "chauncey-garrett/ubersicht-widgets/pulls"). I'd love to expand this library as much as is possible.
+If you have feature suggestions, please open an [issue](https://github.com/chauncey-garrett/ubersicht-widgets/issues "chauncey-garrett/ubersicht-widgets/issues"). If you have contributions, open a [pull request](https://github.com/chauncey-garrett/ubersicht-widgets/pulls "chauncey-garrett/ubersicht-widgets/pulls"). I'd love to expand this library as much as is possible.
 
 # Author(s)
 
