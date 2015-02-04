@@ -10,13 +10,13 @@ noindex: false
 permalink: /projects/ubersicht-widgets/
 external-url:
 tags:
-- github
-- ubersicht
-- customization
-- gui
+  - github
+  - ubersicht
+  - customization
+  - gui
 category: project
 description: A curated Ubersicht layout.
-keywords: TODO
+keywords:
 sharing: true
 comments: false
 footer: true
