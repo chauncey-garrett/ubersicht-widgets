@@ -1,6 +1,6 @@
 ---
 layout: page_github_repo
-title: Ubersicht widgets
+title: Übersicht widgets
 github_repo: ubersicht-widgets
 author: Chauncey Garrett
 published: true
