@@ -25,13 +25,13 @@ footer: true
 * Table of Contents placeholder (via kramdown)
 {:toc}
 
-# Übersicht Widget Collection
+## Übersicht Widget Collection
 
 Personal collection of [Übersicht](http://tracesof.net/uebersicht/) widgets.
 
 ![](img/screenshot.png)
 
-# Widgets
+## Widgets
 
 | Widget                                                                                 | Description
 | ---                                                                                    | ---
@@ -46,7 +46,7 @@ Personal collection of [Übersicht](http://tracesof.net/uebersicht/) widgets.
 
 See each individual widget's repository/folder for a more thorough description and authorship information.
 
-# Installation
+## Installation
 
 With Git ≥ v1.6.5 you can use:
 
@@ -64,11 +64,11 @@ cd widgets
 git submodule update --init --recursive
 ```
 
-# Like it?
+## Like it?
 
 If you have feature suggestions, please open an [issue](https://github.com/chauncey-garrett/ubersicht-widgets/issues "chauncey-garrett/ubersicht-widgets/issues"). If you have contributions, open a [pull request](https://github.com/chauncey-garrett/ubersicht-widgets/pulls "chauncey-garrett/ubersicht-widgets/pulls"). I'd love to expand this library as much as is possible.
 
-# Author(s)
+## Author(s)
 
 *The author(s) of this module should be contacted via the [issue tracker](https://github.com/chauncey-garrett/ubersicht-widgets/issues "chauncey-garrett/ubersicht-widgets/issues").*
 
